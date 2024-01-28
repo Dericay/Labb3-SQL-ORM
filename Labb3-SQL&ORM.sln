@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb3-SQL&ORM", "Labb3-SQL&ORM\Labb3-SQL&ORM.csproj", "{896CC909-0A3A-4A65-94CD-D041AB04E9E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896CC909-0A3A-4A65-94CD-D041AB04E9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896CC909-0A3A-4A65-94CD-D041AB04E9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896CC909-0A3A-4A65-94CD-D041AB04E9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896CC909-0A3A-4A65-94CD-D041AB04E9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7A4BB25-6F42-4708-B6A8-A79F4D36CEED}
+	EndGlobalSection
+EndGlobal
